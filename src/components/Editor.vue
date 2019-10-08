@@ -13,6 +13,7 @@ export default {
     DiagramEditor
   },
   // ljudi ovo je predobro
+  // na bazi ovoga želim napraviti vuex-orm class diagramm
   data() {
     return {
       graph: {
