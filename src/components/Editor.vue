@@ -12,6 +12,7 @@ export default {
   components: {
     DiagramEditor
   },
+  // ljudi ovo je predobro
   data() {
     return {
       graph: {
